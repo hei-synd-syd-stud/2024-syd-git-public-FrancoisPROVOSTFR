@@ -1,4 +1,4 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Francois PROVOST FrancoisPROVOSTFR
 
 ## Basics
 ### Task 1
